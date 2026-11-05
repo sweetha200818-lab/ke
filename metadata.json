@@ -1,0 +1,6 @@
+{
+  "name": "AI Research Paper Assistant",
+  "description": "Intelligent research assistant to upload, analyze, semantically search, summarize, and compare academic papers using RAG, vector embeddings, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

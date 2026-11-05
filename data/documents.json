@@ -1,0 +1,28 @@
+[
+  {
+    "id": "doc_transformer_2017",
+    "title": "Attention Is All You Need (Vaswani et al., 2017)",
+    "filename": "Attention_Is_All_You_Need_Vaswani_2017.pdf",
+    "fileSize": 2211840,
+    "pageCount": 5,
+    "chunkCount": 11,
+    "uploadedAt": "2026-11-02T15:38:42.179Z",
+    "processed": true,
+    "status": "ready",
+    "contentHash": "hash_transformer_vaswani_2017",
+    "isDemo": true
+  },
+  {
+    "id": "doc_resnet_2015",
+    "title": "Deep Residual Learning for Image Recognition (He et al., 2015)",
+    "filename": "Deep_Residual_Learning_He_2015.pdf",
+    "fileSize": 1843200,
+    "pageCount": 5,
+    "chunkCount": 10,
+    "uploadedAt": "2026-11-03T15:38:47.232Z",
+    "processed": true,
+    "status": "ready",
+    "contentHash": "hash_resnet_he_2015",
+    "isDemo": true
+  }
+]
